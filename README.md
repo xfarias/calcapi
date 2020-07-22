@@ -11,10 +11,10 @@ MongoDB
   
 EndPoints
 
-/Registrar
-/Soma
-/Info
-/Usuarios
+- /Registrar
+- /Soma
+- /Info
+- /Usuarios
 
 
 
